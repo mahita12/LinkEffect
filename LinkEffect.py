@@ -42,7 +42,7 @@ st.title("LinkedIn Connections Data Explorer & Message Generator")
 
 st.subheader("By using this service, users consent to the upload and display of their data in accordance with our privacy policy.")
 
-st.subheader("""To download your LinkedIn connections data and display it using Python, follow these steps:
+st.subheader("""To download your LinkedIn connections data and display it, follow these steps:
 
 Step 1: Download Your LinkedIn Connections Data
 Log in to LinkedIn:
